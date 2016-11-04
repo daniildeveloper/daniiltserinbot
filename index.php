@@ -9,8 +9,9 @@ require_once 'vendor/autoload.php';
 require_once 'stopwatch.php';
 
 // connect to database
-$mysqli = new mysqli('database_host', 'database_user', 'database_password', 'database_name');
+$mysqli = new mysqli('db4free.net', 'daniiltserin', '41024910d', 'daniiltserin_bot');
 if (!empty($mysqli->connect_errno)) {
+    echo 'no connection to database';
     throw new \Exception($mysqli->connect_error, $mysqli->connect_errno);
 }
 
