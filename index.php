@@ -16,3 +16,4 @@ $bot->command('start', function ($message) use ($bot) {
     $answer = 'Hello!';
     $bot->sendMessage($message->getChat()->getId(), $answer);
 });
+echo "Hello!";
