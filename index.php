@@ -16,7 +16,7 @@ if (!empty($mysqli->connect_errno)) {
 }
 
 // create a bot
-$bot = new \TelegramBot\Api\Client('bot_token', 'botanio_token');
+$bot = new \TelegramBot\Api\Client('279202606:AAEmlhaQxbyKjRWUzUgCUseBKIn1RAkysC4');
 // run, bot, run!
 $bot->run();
 
