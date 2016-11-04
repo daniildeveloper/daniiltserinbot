@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a421f25a0cf73ce49859f4066e10beb4",
-    "content-hash": "9b38f827b09f46a88cc11fbf1148c168",
+    "hash": "664235b38a77b43c0eaca19a68b41f20",
+    "content-hash": "2281aa9ead9280bd72ca63eff4ce74e9",
     "packages": [
         {
             "name": "telegram-bot/api",
@@ -22,7 +22,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.*"
+                "php": ">=5.5.0"
             },
             "require-dev": {
                 "codeception/codeception": "*",
@@ -69,6 +69,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "^5.5.12"
+    },
     "platform-dev": []
 }

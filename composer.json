@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": "7.*",
+        "php": "^5.5.12",
         "telegram-bot/api": "^2.2"
     }
 }
