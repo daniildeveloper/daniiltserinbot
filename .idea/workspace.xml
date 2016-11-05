@@ -2,61 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2865e289-ce85-4efd-81eb-0ec880b1985b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sql.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stopwatch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/BadMethodCallException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/BaseType.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/BotApi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Botan.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Events/Event.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Events/EventCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/HttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/InvalidJsonException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/TypeInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/ArrayOfArrayOfPhotoSize.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/ArrayOfPhotoSize.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/ArrayOfUpdates.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Audio.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Chat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Document.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/File.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/ForceReply.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Location.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Message.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/PhotoSize.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/ReplyKeyboardHide.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/ReplyKeyboardMarkup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Sticker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Update.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/UserProfilePhotos.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Video.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/telegram-bot/api/src/Types/Voice.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
     </list>
     <ignored path="daniiltserin_bot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,8 +35,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+            <state relative-caret-position="72">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding>
                 <element signature="e#0#49#0" expanded="false" />
               </folding>
@@ -184,38 +131,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daniiltserin_bot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daniiltserin_bot" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daniiltserin_bot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daniiltserin_bot" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="telegram-node-bot" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -307,12 +222,12 @@
       <workItem from="1478257034204" duration="6088000" />
       <workItem from="1478298602324" duration="3046000" />
       <workItem from="1478303756542" duration="1107000" />
-      <workItem from="1478325476078" duration="1418000" />
+      <workItem from="1478325476078" duration="2111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14132000" />
+    <option name="totallyTimeSpent" value="14825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -498,14 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/telegram-node-bot/ScreenShot.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -519,10 +426,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+        <state relative-caret-position="72">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding>
             <element signature="e#0#49#0" expanded="false" />
           </folding>
