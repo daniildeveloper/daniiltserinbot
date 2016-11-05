@@ -1,12 +1,12 @@
 /**
  * Created by daniiltserin on 05.11.2016.
  */
-var tg = require("telegram-node-bot")('279202606:AAEmlhaQxbyKjRWUzUgCUseBKIn1RAkysC4');
+var TelegrammBot = require('node-telegram-bot-api');
+var token = '279202606:AAEmlhaQxbyKjRWUzUgCUseBKIn1RAkysC4';
 
-tg.router.when(['ping'], 'PingController');
+var bot = new TelegramBot(token, {pooling: true});
 
-tg.controller('PingController', function ($) {
-    tg.for('ping', function () {
-        $.sendMessage('pong');
-    });
+bot.on('message', function (msg) {
+    var chatId = msg.chat.id;
+    bot.sendMessage(chatId, "some message");
 });

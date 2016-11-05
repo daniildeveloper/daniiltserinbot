@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/daniiltserin/daniiltserinbot#readme",
   "dependencies": {
+    "node-telegram-bot-api": "^0.24.0",
     "telegram-node-bot": "^4.0.3"
   }
 }
